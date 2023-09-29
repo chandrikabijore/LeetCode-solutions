@@ -1,6 +1,6 @@
 # Medium
  
-Given the head of a linked list, remove the nth node from the end of the list and return its head.
+Q.19 - Given the head of a linked list, remove the nth node from the end of the list and return its head.
 
 # Example 1:
 
