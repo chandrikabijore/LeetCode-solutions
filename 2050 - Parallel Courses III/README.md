@@ -19,7 +19,9 @@ Input: n = 3, relations = [[1,3],[2,3]], time = [3,2,5]
 
 Output: 8
 
-# Explanation: The figure above represents the given graph and the time required to complete each course. 
+# Explanation: 
+
+The figure above represents the given graph and the time required to complete each course. 
 
 We start course 1 and course 2 simultaneously at month 0.
 Course 1 takes 3 months and course 2 takes 2 months to complete respectively.
@@ -27,11 +29,11 @@ Thus, the earliest time we can start course 3 is at month 3, and the total time 
 
 # Example 2:
 
-
 Input: n = 5, relations = [[1,5],[2,5],[3,5],[3,4],[4,5]], time = [1,2,3,4,5]
 Output: 12
 
-# Explanation: The figure above represents the given graph and the time required to complete each course.
+# Explanation: 
+The figure above represents the given graph and the time required to complete each course.
 
 You can start courses 1, 2, and 3 at month 0.
 You can complete them after 1, 2, and 3 months respectively.
