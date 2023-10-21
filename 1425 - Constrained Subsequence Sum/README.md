@@ -8,19 +8,25 @@ from the array, leaving the remaining elements in their original order.
 # Example 1:
 
 Input: nums = [10,2,-10,5,20], k = 2
+
 Output: 37
+
 Explanation: The subsequence is [10, 2, 5, 20].
 
 # Example 2:
 
 Input: nums = [-1,-2,-3], k = 1
+
 Output: -1
+
 Explanation: The subsequence must be non-empty, so we choose the largest number.
 
 # Example 3:
 
 Input: nums = [10,-2,-10,-5,20], k = 2
+
 Output: 23
+
 Explanation: The subsequence is [10, -2, -5, 20].
  
 # Constraints:
