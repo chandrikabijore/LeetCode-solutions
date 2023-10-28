@@ -2,7 +2,6 @@ class Solution {
 
     public int countVowelPermutation(int n) {
         int MOD = 1000000007;
-
     
         // Create a 2D array to store the counts
         int[][] dp = new int[n + 1][5]; // 5 characters: a, e, i, o, u
