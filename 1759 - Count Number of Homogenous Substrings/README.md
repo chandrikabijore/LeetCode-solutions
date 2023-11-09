@@ -11,7 +11,9 @@ Input: s = "abbcccaa"
 
 Output: 13
 
-# Explanation: The homogenous substrings are listed as below:
+# Explanation: 
+
+The homogenous substrings are listed as below:
 
 "a"   appears 3 times.
 
