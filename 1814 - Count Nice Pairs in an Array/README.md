@@ -15,7 +15,7 @@ Input: nums = [42,11,1,97]
 
 Output: 2
 
-Explanation: 
+# Explanation: 
 
 The two pairs are:
 
@@ -23,7 +23,7 @@ The two pairs are:
  
  - (1,2) : 11 + rev(1) = 11 + 1 = 12, 1 + rev(11) = 1 + 11 = 12.
 
-Example 2:
+# Example 2:
 
 Input: nums = [13,10,35,24,76]
 
@@ -32,4 +32,5 @@ Output: 4
 # Constraints:
 
 - 1 <= nums.length <= 105
+
 - 0 <= nums[i] <= 109
