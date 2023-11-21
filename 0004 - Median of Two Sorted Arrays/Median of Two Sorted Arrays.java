@@ -1,5 +1,7 @@
-class Solution {
-    public double findMedianSortedArrays(int[] A, int[] B) {
+class Solution 
+{
+    public double findMedianSortedArrays(int[] A, int[] B) 
+    {
         int na = A.length, nb = B.length;
         int n = na + nb;
         if ((na + nb) % 2 == 1) {
