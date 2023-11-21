@@ -8,3 +8,8 @@ cd dillinger
 npm i
 node app
 ```
+```
+cd dillinger
+npm i
+node app
+```
