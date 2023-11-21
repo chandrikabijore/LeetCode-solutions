@@ -4,7 +4,8 @@ class Solution {
         int n = na + nb;
         if ((na + nb) % 2 == 1) {
             return solve(A, B, n / 2, 0, na - 1, 0, nb - 1);
-        } else {
+        } 
+        else {
             return (double)(solve(A, B, n / 2, 0, na - 1, 0, nb - 1) + solve(A, B, n / 2 - 1, 0, na - 1, 0, nb - 1)) / 2;
         }
     }
