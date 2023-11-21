@@ -1,5 +1,4 @@
-class Solution { 
-
+class Solution {
 public int romanToInt(String s) {
     // Create a HashMap to store the values of Roman numerals
     HashMap<Character, Integer> romanMap = new HashMap<>();
