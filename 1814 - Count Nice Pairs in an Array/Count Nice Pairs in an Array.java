@@ -11,8 +11,7 @@ class Solution {
         for (int num : arr) {
             ans = (ans + dic.getOrDefault(num, 0)) % MOD;
             dic.put(num, dic.getOrDefault(num, 0) + 1);
-        }
-        
+        }        
         return ans;
     }
     
