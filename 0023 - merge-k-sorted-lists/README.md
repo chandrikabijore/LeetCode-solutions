@@ -1,4 +1,4 @@
-[23-merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+[23. merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Hard
