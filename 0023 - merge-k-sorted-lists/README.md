@@ -35,10 +35,11 @@ Input: lists = [[]]
 Output: []
 ```
 #### Constraints:
-
+```
 k == lists.length
 0 <= k <= 104
 0 <= lists[i].length <= 500
 -104 <= lists[i][j] <= 104
 lists[i] is sorted in ascending order.
 The sum of lists[i].length will not exceed 104.
+```
