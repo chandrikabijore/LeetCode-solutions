@@ -1,3 +1,10 @@
+[1424. Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/)
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+### Medium
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
 Given a 2D integer array nums, return all elements of nums in diagonal order as shown in the below images.
 
 #### Example 1:
