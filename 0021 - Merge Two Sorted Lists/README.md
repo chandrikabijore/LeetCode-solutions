@@ -11,6 +11,8 @@ Merge the two lists into one sorted list. The list should be made by splicing to
 Return the head of the merged linked list.
 
 #### Example 1:
+![21](https://github.com/chandrikabijore/LeetCode-solutions/assets/93921178/5b5df09f-a99f-4e7c-a05f-0f518bf142f3)
+
 ```
 Input: list1 = [1,2,4], list2 = [1,3,4]
 Output: [1,1,2,3,4,4]
