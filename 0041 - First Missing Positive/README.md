@@ -1,7 +1,7 @@
-[41 - First Missing Positive](https://leetcode.com/problems/two-sum/)
+[41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-### Easy
+###  Hard
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
 Given an unsorted integer array nums, return the smallest missing positive integer.
