@@ -20,8 +20,7 @@ class Solution {
                 break;
             default:
                 break;
-        }
-            
+        }            
         }
     }
     public static void swap(int [] arr, int x, int y){
