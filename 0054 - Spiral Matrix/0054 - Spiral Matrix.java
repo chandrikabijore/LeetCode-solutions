@@ -38,6 +38,7 @@ class Solution {
             dir = (dir+1)%4;
         }
         System.out.println(list);
+        
         return list;
     }
 }
