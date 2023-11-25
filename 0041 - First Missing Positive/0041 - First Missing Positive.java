@@ -7,8 +7,7 @@ class Solution {
             if(val > 0 && val <= nums.length){
             arr[val] = 1;
             }
-        }
-          
+        }          
         for(int i=1;i<arr.length;i++){
             if(arr[i] == 0 ) return i;
         }
