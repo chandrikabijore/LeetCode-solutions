@@ -11,6 +11,7 @@ class Solution {
         for(int i=1;i<arr.length;i++){
             if(arr[i] == 0 ) return i;
         }
+        
         return arr.length;
     }
 }
