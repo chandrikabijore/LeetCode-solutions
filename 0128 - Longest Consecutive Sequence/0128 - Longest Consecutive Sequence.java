@@ -21,6 +21,7 @@ class Solution {
                 max = counter;
             }
         }
+        
         return max;        
     }
 }
