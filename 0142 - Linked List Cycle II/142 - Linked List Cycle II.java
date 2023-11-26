@@ -8,8 +8,7 @@
  *         next = null;
  *     }
  * }
- */
- 
+ */ 
 public class Solution {
     public ListNode detectCycle(ListNode head) {
         HashSet<ListNode> map = new HashSet<>();
