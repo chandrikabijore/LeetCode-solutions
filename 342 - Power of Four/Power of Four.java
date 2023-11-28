@@ -18,5 +18,3 @@ class Solution {
     
     return (countZeros % 2 == 0);
 }
-
-}
