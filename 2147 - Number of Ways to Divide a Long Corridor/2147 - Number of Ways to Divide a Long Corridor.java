@@ -23,7 +23,6 @@ class Solution {
                 count[index][2] = (count[index + 1][0] + count[index + 1][2]) % MOD;
             }
         }
-
         // Return the result
         return count[0][0];
     }
