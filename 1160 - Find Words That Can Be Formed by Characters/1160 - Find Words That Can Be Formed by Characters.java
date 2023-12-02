@@ -23,8 +23,7 @@ class Solution {
             if (good) {
                 ans += word.length();
             }
-        }
-        
+        }        
         return ans;
     }
 }
