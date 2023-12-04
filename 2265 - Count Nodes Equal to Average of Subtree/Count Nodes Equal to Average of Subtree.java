@@ -39,6 +39,7 @@ class Solution {
     
     public int averageOfSubtree(TreeNode root) {
         postOrder(root);
+        
         return count;
     }
 }
