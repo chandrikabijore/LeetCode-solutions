@@ -34,6 +34,7 @@ class Solution {
                 temp.left = null; // original cur left be null, avoid infinite loops
             }
         }
+        
         return res;
     }
 }
