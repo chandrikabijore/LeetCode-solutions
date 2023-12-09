@@ -1,4 +1,4 @@
-[0458. Poor Pigs](https://leetcode.com/problems/poor-pigs/)
+[458. Poor Pigs](https://leetcode.com/problems/poor-pigs/)
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Hard
