@@ -16,6 +16,7 @@ A **0-indexed** m x n difference matrix diff is created with the following proce
 - Return the difference matrix diff.
 
 #### Example 1:
+![2482-e1](https://github.com/chandrikabijore/LeetCode-solutions/assets/93921178/fdf3e644-5a0a-4d48-9a9b-145674a747a6)
 ```
 Input: grid = [[0,1,1],[1,0,1],[0,0,1]]
 Output: [[0,0,4],[0,0,4],[-2,-2,2]]
@@ -31,6 +32,7 @@ Explanation:
 - diff[2][2] = onesRow2 + onesCol2 - zerosRow2 - zerosCol2 = 1 + 3 - 2 - 0 = 2
 ```
 #### Example 2:
+![2482-e2](https://github.com/chandrikabijore/LeetCode-solutions/assets/93921178/6cdef96f-5b12-4a00-8829-947f806ea372)
 ```
 Input: grid = [[1,1,1],[1,1,1]]
 Output: [[5,5,5],[5,5,5]]
