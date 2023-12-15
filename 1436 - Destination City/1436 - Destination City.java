@@ -10,9 +10,7 @@ class Solution {
             if (!hasOutgoing.contains(candidate)) {
                 return candidate;
             }
-        }
-        
+        }        
         return "";
     }
 }
-
