@@ -68,7 +68,6 @@ class FoodRatings {
         return highestRated.foodName;
     }
 }
-
 /**
  * Your FoodRatings object will be instantiated and called as such:
  * FoodRatings obj = new FoodRatings(foods, cuisines, ratings);
