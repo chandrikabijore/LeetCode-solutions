@@ -29,7 +29,6 @@ class Solution {
                 smoothImg[i][j] = sum / count;
             }
         }
-
         // Return the smooth image.
         return smoothImg;
     }
