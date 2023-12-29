@@ -1,4 +1,4 @@
-[1. Two Sum](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/?envType=daily-question&envId=2023-12-29)
+[1335. Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/?envType=daily-question&envId=2023-12-29)
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Hard
