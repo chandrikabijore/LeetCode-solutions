@@ -1,4 +1,4 @@
-[1. Two Sum](https://leetcode.com/problems/largest-substring-between-two-equal-characters/?envType=daily-question&envId=2023-12-31)
+[1624. Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/?envType=daily-question&envId=2023-12-31)
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Easy
