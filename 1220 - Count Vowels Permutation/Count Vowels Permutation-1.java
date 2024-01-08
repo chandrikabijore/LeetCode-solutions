@@ -21,8 +21,7 @@ class Solution {
         }
     
         // Calculate the total count for strings of length n
-        int totalCount = 0;
-        
+        int totalCount = 0;        
         for (int i = 0; i < 5; i++) {
             totalCount = (totalCount + dp[n][i]) % MOD;
         } 
