@@ -27,7 +27,6 @@ class Solution {
             totalCount = (totalCount + dp[n][i]) % MOD;
         } 
             
-        return totalCount;
-        
+        return totalCount;        
     }
 }
