@@ -29,7 +29,7 @@ Output: false
 Explanation: It is impossible to attain word2 from word1, or vice versa, in any number of operations.
 ```
 #### Example 3:
-
+```
 Input: word1 = "cabbba", word2 = "abbccc"
 Output: true
 Explanation: You can attain word2 from word1 in 3 operations.
