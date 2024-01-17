@@ -1,11 +1,12 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrikabijore&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikabijore" /> </p>
+
 <h1 align="center">Hi 👨‍🎓, I'm Chandrika Bijore</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
 ![Banner-2](https://github.com/chandrikabijore/LeetCode-solutions/assets/93921178/db22970c-f443-453b-a964-395e432a1e0b) 
 
 <h3 align="center">All Leetcode Soluton</h3> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrikabijore&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikabijore" /> </p>
-   
+    
 ## Find out more about me & feel free to connect with me here:
   
 [![LeetCode Badge](https://img.shields.io/badge/-chandrikabijore-orange?style=flat-square&logo=Leetcode&logoColor=white&link=https://leetcode.com/chandrikabijore/)](https://leetcode.com/chandrikabijore/)
