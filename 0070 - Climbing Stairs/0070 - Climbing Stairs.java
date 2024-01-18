@@ -1,4 +1,5 @@
-class Solution {
+class Solution 
+{
     public int climbStairs(int n) {
         int ways = 1;
 
