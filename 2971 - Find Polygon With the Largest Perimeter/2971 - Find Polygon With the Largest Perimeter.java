@@ -1,4 +1,5 @@
-class Solution {
+class Solution 
+{
     public long largestPerimeter(int[] nums) {
         long sum = 0;
         Arrays.sort(nums);
