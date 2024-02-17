@@ -1,21 +1,23 @@
-[1. Two Sum](https://leetcode.com/problems/two-sum/)
+[1642. Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/description/?envType=daily-question&envId=2024-02-17)
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Medium
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-You are given an integer array heights representing the heights of buildings, some bricks, and some ladders.
+You are given an integer array **heights** representing the heights of buildings, some **bricks**, and some **ladders**.
 
 You start your journey from building 0 and move to the next building by possibly using bricks or ladders.
 
-While moving from building i to building i+1 (0-indexed),
+While moving from building i to building i+1 **(0-indexed)**,
 
-If the current building's height is greater than or equal to the next building's height, you do not need a ladder or bricks.
-If the current building's height is less than the next building's height, you can either use one ladder or (h[i+1] - h[i]) bricks.
-Return the furthest building index (0-indexed) you can reach if you use the given ladders and bricks optimally.
+- If the current building's height is **greater than or equal to** the next building's height, you do **not** need a ladder or bricks.
+
+- If the current building's height is **less than** the next building's height, you can either use **one ladder** or (h[i+1] - h[i]) **bricks**.
+
+_Return the furthest building index (0-indexed) you can reach if you use the given ladders and bricks optimally._
 
 #### Example 1:
-
+![1642-e1](https://github.com/chandrikabijore/LeetCode-solutions/assets/93921178/7dfdd5c1-f161-4249-8c36-3803c2ae8086) 
 ```
 Input: heights = [4,2,7,6,9,14,12], bricks = 5, ladders = 1
 Output: 4
