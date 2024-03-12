@@ -1,4 +1,4 @@
-[1171. Remove Zero Sum Consecutive Nodes from Linked List]([https://leetcode.com/problems/two-sum/](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/?envType=daily-question&envId=2024-03-12))
+[1171. Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/?envType=daily-question&envId=2024-03-12)
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Medium
