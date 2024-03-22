@@ -4,7 +4,7 @@
 ### Easy
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-Given the **head** of a singly linked list, return **true** if it is <p title="A palindrome is a sequence that reads the same forward and backward.">**palindrome**</p> or **false** otherwise.  
+Given the `head` of a singly linked list, return `true` if it is <p title="A palindrome is a sequence that reads the same forward and backward.">**palindrome**</p> or `false` otherwise.  
 
 #### Example 1: 
 ![234 - e1](https://github.com/chandrikabijore/LeetCode-solutions/assets/93921178/1a2786ab-5d6c-4e7a-8588-278147185757)
