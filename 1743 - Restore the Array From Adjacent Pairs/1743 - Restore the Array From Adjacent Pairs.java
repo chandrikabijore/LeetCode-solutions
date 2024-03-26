@@ -1,4 +1,5 @@
-class Solution {
+class Solution 
+{
     Map<Integer, List<Integer>> graph = new HashMap();
     
     public int[] restoreArray(int[][] adjacentPairs) {
