@@ -1,4 +1,5 @@
-class Solution {
+class Solution 
+{
     public int countHomogenous(String s) {
         int ans = 0;
         int currStreak = 0;
