@@ -1,4 +1,5 @@
-class Solution {
+class Solution 
+{
     public int maxFrequency(int[] nums, int k) {
         Arrays.sort(nums);
         int left = 0, right = 0;
