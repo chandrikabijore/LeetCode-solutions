@@ -1,4 +1,5 @@
-class Solution {
+class Solution 
+{
     public int lengthOfLastWord(String s) {
         s = s.trim();
         
