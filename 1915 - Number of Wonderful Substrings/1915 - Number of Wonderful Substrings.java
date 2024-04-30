@@ -1,4 +1,5 @@
-class Solution {
+class Solution 
+{
     public long wonderfulSubstrings(String word) {
         int n = word.length();
         long count = 0;
