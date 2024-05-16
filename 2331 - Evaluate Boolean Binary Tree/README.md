@@ -1,4 +1,4 @@
-[2331. Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/?envType=daily-question&envId=2024-05-16)
+ [2331. Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/?envType=daily-question&envId=2024-05-16)
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Easy
@@ -23,6 +23,7 @@ A **full binary tree** is a binary tree where each node has either 0 or 2 childr
 A **leaf node** is a node that has `zero` children.
 
 #### Example 1:
+![2331-e1](https://github.com/chandrikabijore/LeetCode-solutions/assets/93921178/49be6d50-0b00-4131-8e9b-3f6f62a16030)
 ```
 Input: root = [2,1,3,null,null,0,1]
 Output: true
