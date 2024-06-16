@@ -1,4 +1,4 @@
-[330. Patching Array](https://leetcode.com/problems/two-sum/)
+[330. Patching Array](https://leetcode.com/problems/patching-array/?envType=daily-question&envId=2024-06-16)
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Hard
