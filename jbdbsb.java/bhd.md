@@ -1,5 +1,5 @@
 frf
-gj
+g
 vfr
 fw
 BBJN
