@@ -1,4 +1,5 @@
-class Solution {
+class Solution 
+{
     public String reverseParentheses(String s) {
         Deque<Integer> indStack = new LinkedList<>();
         StringBuilder res = new StringBuilder();
