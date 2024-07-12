@@ -1,3 +1,9 @@
+[1717. Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/?envType=daily-question&envId=2024-07-12)
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+### Medium
+---------------------------------------------------------------------------------------------------------------------------------------------
+
 You are given a string s and two integers x and y. You can perform two types of operations any number of times.
 
 Remove substring "ab" and gain x points.
