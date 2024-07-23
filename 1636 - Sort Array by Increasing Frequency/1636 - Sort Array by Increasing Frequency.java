@@ -1,4 +1,5 @@
-class Solution {
+class Solution 
+{
     public int[] frequencySort(int[] nums) {
 	Map<Integer, Integer> res = new HashMap<>();
 	
