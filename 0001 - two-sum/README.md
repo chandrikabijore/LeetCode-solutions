@@ -1,7 +1,7 @@
-[40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/?envType=daily-question&envId=2024-08-13)
+[1. Two Sum](https://leetcode.com/problems/two-sum/)
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-### Medium
+### Easy
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
