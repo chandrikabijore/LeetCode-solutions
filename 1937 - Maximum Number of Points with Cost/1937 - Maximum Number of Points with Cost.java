@@ -34,7 +34,6 @@ class Solution {
         for (long value : dp) {
             result = Math.max(result, value);
         }
-        
         return result;
     }
 }
