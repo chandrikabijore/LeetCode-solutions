@@ -10,6 +10,7 @@ Return True if all the elements in the linked list starting from the head corres
 
 In this context downward path means a path that starts at some node and goes downwards.
 
+
 #### Example 1:
 ```
 Input: head = [4,2,8], root = [1,4,4,null,2,2,null,1,null,6,8,null,null,null,null,1,3]
