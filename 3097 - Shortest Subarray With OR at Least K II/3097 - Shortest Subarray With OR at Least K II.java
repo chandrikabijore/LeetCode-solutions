@@ -1,4 +1,4 @@
-class Solution {
+class Solution { 
     public int minimumSubarrayLength(int[] nums, int k) {
     int[] count = new int[32];
     int start = 0, end = 0, min = Integer.MAX_VALUE;
