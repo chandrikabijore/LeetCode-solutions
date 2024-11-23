@@ -1,4 +1,5 @@
-class Solution {
+class Solution 
+{
     public char[][] rotateTheBox(char[][] box) {
         int m = box.length;
         int n = box[0].length;
