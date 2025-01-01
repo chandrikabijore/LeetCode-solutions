@@ -3,7 +3,7 @@ class Solution {
         int ans = 0;
         
         for (int i = 0; i < s.length() - 1; i++) {
-            int curr = 0;
+            int curr = 0; 
             for (int j = 0; j <= i; j++) {
                 if (s.charAt(j) == '0') {
                     curr++;
