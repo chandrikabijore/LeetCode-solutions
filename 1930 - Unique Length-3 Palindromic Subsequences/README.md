@@ -1,3 +1,9 @@
+[1930. Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/?envType=daily-question&envId=2025-01-04)
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+### Medium
+---------------------------------------------------------------------------------------------------------------------------------------------
+
 Given a string s, return the number of unique palindromes of length three 
 that are a subsequence of s.
 
