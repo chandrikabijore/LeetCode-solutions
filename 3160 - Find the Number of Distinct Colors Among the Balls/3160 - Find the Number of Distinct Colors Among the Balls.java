@@ -3,7 +3,7 @@ class Solution {
         Map<Integer, Integer> bal=new HashMap<>();
         Map<Integer, Integer> col=new HashMap<>();
         int n=queries.length;
-        int[] res=new int[n];
+        int[] res=new int[n]; 
 
         for(int i=0; i<n; i++){
             if(!bal.containsKey(queries[i][0])){
