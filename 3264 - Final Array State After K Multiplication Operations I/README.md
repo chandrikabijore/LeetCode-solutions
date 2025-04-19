@@ -1,7 +1,7 @@
 [3264. Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/?envType=daily-question&envId=2024-12-16)
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-### Easy
+### Easy 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
 You are given an integer array nums, an integer k, and an integer multiplier.
