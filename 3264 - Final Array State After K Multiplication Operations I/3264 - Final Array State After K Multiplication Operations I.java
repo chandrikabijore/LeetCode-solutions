@@ -8,7 +8,7 @@ class Solution {
             return Integer.compare(a[0], b[0]); // Compare by value
         });
 
-        // Push all elements along with their indices into the priority queue
+        // Push all elements along with their indices into the priority queue 
         for (int i = 0; i < nums.length; i++) {
             pq.add(new int[] { nums[i], i });
         }
