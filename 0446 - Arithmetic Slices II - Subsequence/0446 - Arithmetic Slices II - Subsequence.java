@@ -5,7 +5,7 @@ public class Solution {
 
         HashMap<Integer, Integer>[] dp = new HashMap[n];
 
-        for (int i = 0; i < n; ++i) {
+        for (int i = 0; i < n; ++i) { 
             dp[i] = new HashMap<>();
         }
 
