@@ -3,7 +3,7 @@ class Solution {
         short pmax = 0, cmin = 0, cmax = 0;
         byte pcnt = 0;
         for (final int v : nums) {
-            final byte ccnt = (byte)Integer.bitCount(v);
+            final byte ccnt = (byte)Integer.bitCount(v); 
             if (pcnt == ccnt) {
                 cmin = cmin > v ? (short)v : cmin;
                 cmax = cmax < v ? (short)v : cmax;
