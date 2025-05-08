@@ -12,7 +12,7 @@ public class Solution {
             for (int j = 0; j < n; j++) {
                 if (grid[i][j] == 1) {
                     int size = dfs(grid, i, j, id);
-                    key.add(size);
+                    key.add(size); 
                     id++;
                 }
             }
